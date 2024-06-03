@@ -1,6 +1,6 @@
 # Online_Retail_Analysis
 ------------------------
-<a href="https://github.com/tanya88099/Online_Retail_Analysis/assets/86092373/9471af35-eef1-4717-9594-0e50c330b97c"/>
+# <img src="https://github.com/tanya88099/Online_Retail_Analysis/assets/86092373/9471af35-eef1-4717-9594-0e50c330b97c" width = "100" height="75">
 
 By doing this analysis, I have derived many solutions such as:
 1. Sales over Month
